@@ -1,0 +1,2 @@
+# linqpadscripts
+Miscellaneous personal utilities.
